@@ -3,6 +3,7 @@ tap "homebrew/cask"
 tap "homebrew/core"
 tap "homebrew/services"
 brew "mas"
+cask "alfred"
 cask "anydesk"
 cask "appcleaner"
 cask "cheatsheet"
@@ -13,8 +14,10 @@ cask "iconjar"
 cask "icons8"
 cask "liteicon"
 cask "marked"
+cask "numi"
 cask "pdfelement"
 cask "permute"
+cask "prizmo"
 cask "soda-player"
 cask "tiles"
 cask "unite"
@@ -24,7 +27,6 @@ cask "wrike"
 cask "zoomus"
 mas "AudioNote - Notepad and Voice Recorder", id: 406393290
 mas "iThoughtsX", id: 720669838
-mas "Slack", id: 803453959
 mas "Telegram", id: 747648890
+mas "Todoist", id: 585829637
 mas "Treenity", id: 1208520991
-
