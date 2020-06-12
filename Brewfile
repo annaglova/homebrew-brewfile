@@ -23,10 +23,7 @@ cask "soda-player"
 cask "transmission"
 cask "viber"
 cask "visual-studio-code"
-cask "whatsapp"
 cask "zoomus"
 mas "AudioNote - Notepad and Voice Recorder", id: 406393290
 mas "iThoughtsX", id: 720669838
-mas "Microsoft Excel", id: 462058435
-mas "Microsoft Word", id: 462054704
 mas "Telegram", id: 747648890
